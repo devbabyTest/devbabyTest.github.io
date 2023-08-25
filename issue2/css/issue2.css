@@ -43,6 +43,18 @@
   margin-top: -35px;
 }
 
+.dark-mode .poem-lightmode {
+  display: none;
+}
+
+.poem-darkmode {
+  display: none
+}
+
+.dark-mode .poem-darkmode {
+  display: block;
+}
+
 a:hover {
   color: #3a243b;
   text-decoration: line-through;
