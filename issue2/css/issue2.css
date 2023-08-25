@@ -55,6 +55,13 @@
   display: block;
 }
 
+.quote {
+  padding-left: 40px;
+  font-family: 'cardo',serif;
+  font-style: italic;
+  font-size: 1.3rem;
+}
+
 a:hover {
   color: #3a243b;
   text-decoration: line-through;
