@@ -81,6 +81,14 @@ a:hover {
   h2 {
     font-family: 'Sawarabi Mincho';
   }
+  ul {
+    font-family: 'cardo';
+    list-style-type: none;
+
+  }
+  li a {
+    color: #000;
+  }
 
   .dark-mode {
     background-color: #333;
