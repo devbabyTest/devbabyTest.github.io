@@ -10,6 +10,10 @@
   padding-top: 2%;
 }
 
+.dark-mode hr {
+  border-color: #5C5682 !important;
+}
+
 .navbar-toggler,
 .navbar-toggler:focus,
 .navbar-toggler:active,
@@ -208,6 +212,10 @@ a:hover {
     font-size: 1.2rem;
   }
 
+  .mt-5 {
+    margin-top: 1.5rem !important;
+  }
+
   .header {display: block;
   margin-left: 10%;
 margin-right: 10%;
@@ -220,3 +228,16 @@ margin-right: 10%;
   }
 
 }
+
+@media (max-width:975px) {
+
+  .mt-3 {
+    margin-top: 6px !important;
+  }
+  .col-3 {
+    margin-left: 3px !important;
+    margin-right: 3px !important;
+}
+  .mb-4 {
+    margin-bottom: 0px !important;
+  }
