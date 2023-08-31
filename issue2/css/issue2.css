@@ -189,3 +189,25 @@ a:hover {
       flex: 1;
       padding-left: 2%;
     }
+
+
+@media (max-width:641px) {
+  p {
+    font-size: 1rem;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  h4 {
+    font-size: 1.2rem;
+  }
+
+
+
+}
