@@ -197,17 +197,26 @@ a:hover {
   }
 
   h2 {
-    font-size: 1.8rem;
-  }
-
-  h3 {
     font-size: 1.5rem;
   }
 
-  h4 {
-    font-size: 1.2rem;
+  h3 {
+    font-size: 1.3rem;
   }
 
+  h4 {
+    font-size: 1.1rem;
+  }
 
+  .header {display: block;
+  margin-left: 10%;
+margin-right: 10%;
+}
+  .divider {
+    display: none;
+  }
+  .headline {
+    padding-top: 10px;
+  }
 
 }
