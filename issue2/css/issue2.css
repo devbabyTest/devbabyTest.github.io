@@ -234,6 +234,11 @@ margin-right: 10%;
 .mt-3 {
     margin-top: 6px !important;
   }
+
+  .first-row {
+    padding-top: 1rem;
+  }
+
 .col-3 {
     padding-left: 3px !important;
     padding-right: 3px !important;
