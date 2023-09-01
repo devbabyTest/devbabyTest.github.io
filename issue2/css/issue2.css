@@ -231,13 +231,13 @@ margin-right: 10%;
 
 @media (max-width:975px) {
 
-  ###mt-3 {
+.mt-3 {
     margin-top: 6px !important;
   }
-  ###col-3 {
-    margin-left: 3px !important;
-    margin-right: 3px !important;
+.col-3 {
+    padding-left: 3px !important;
+    padding-right: 3px !important;
 }
-  ###mb-4 {
+.mb-4 {
     margin-bottom: 0px !important;
   }
