@@ -235,12 +235,16 @@ margin-right: 10%;
 
 @media (max-width:975px) {
 
+  .footer p {
+   font-size: 8px;
+  }
+
 .mt-3 {
     margin-top: 6px !important;
   }
 
   .first-row {
-    padding-top: 2rem;
+    padding-top: 1.8rem;
   }
 
 .col-3 {
